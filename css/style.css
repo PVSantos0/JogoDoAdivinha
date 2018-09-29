@@ -1,0 +1,16 @@
+body{
+	height: 100vh;
+	background-color: lightblue;
+}
+
+hr{
+	color:red;
+}
+
+.fa-skull{
+	color:#009933;
+}
+
+.fa-heart{
+	color:red;
+}
